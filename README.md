@@ -1,8 +1,6 @@
 # PIZZA
 ## Author
 kipkirui ronoh victor
-### codebeat link
-- https://codebeat.co/projects/github-com-langat05-pizza-master
 
 # Description
 - This is a website which deals with the pizza order and delivery. The customer can make an order of the number of Pizza they want and have it delivered on their preffered locations.
@@ -13,7 +11,7 @@ kipkirui ronoh victor
 ## Setup Instructions
 - Open Terminal {Ctrl+Alt+T}
 
-- git clone https://github.com/Langat05/Pizza
+- 
 
 - cd Pizza
 
@@ -27,8 +25,6 @@ kipkirui ronoh victor
 ## BDD
 The customer can choose the size of the pizza he or she wants. Also the customer can choose more than one pizza and can select the favourite crust and toppings of their choice. Delivery option is available and the customer can choose his or her preffered location for delivery.
 
-## Contact Information
-Any contribution to better this project can be sent to me through justuslangat78@gmail.com
 
 # LICENSE
 Copyright 2022 kipkirui ronoh victor
